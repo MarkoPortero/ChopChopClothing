@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "926704333706",
+    "firebase_url": "https://chopchopclothing-87f7e.firebaseio.com",
+    "project_id": "chopchopclothing-87f7e",
+    "storage_bucket": "chopchopclothing-87f7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926704333706:android:205750c375106b8b",
+        "android_client_info": {
+          "package_name": "com.example.markporter.chopchopclothing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926704333706-elgdoea81gkck0j958990cm39e3nlsia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.markporter.chopchopclothing",
+            "certificate_hash": "eed5e46ca88278dd1dba304712db0b7f8493225e"
+          }
+        },
+        {
+          "client_id": "926704333706-f7l7lhjlg1iqangccajkdunpkv1e28g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA20BWvzhtdprmrCCS2b_q8yjvWk4d0HLo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926704333706-f7l7lhjlg1iqangccajkdunpkv1e28g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

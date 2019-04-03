@@ -1,0 +1,163 @@
+[
+ {
+   "Product ID": 1,
+   "Product Name": "Jack & Jones - Sebastian Henly",
+   "Price": 20,
+   "PictureLocation": "",
+   "Purchase Link": ""
+ },
+ {
+   "Product ID": 2,
+   "Product Name": "Basic long sleeve",
+   "Price": 10,
+   "PictureLocation": "",
+   "Purchase Link": ""
+ },
+ {
+   "Product ID": 3,
+   "Product Name": "Hey Ho basic tshirt",
+   "Price": 15,
+   "PictureLocation": "",
+   "Purchase Link": ""
+ },
+ {
+   "Product ID": 4,
+   "Product Name": "Muscle Fit T-shirt",
+   "Price": 15,
+   "PictureLocation": "",
+   "Purchase Link": ""
+ },
+ {
+   "Product ID": 5,
+   "Product Name": "Skinny Long Sleeve",
+   "Price": 15,
+   "PictureLocation": "",
+   "Purchase Link": ""
+ },
+ {
+   "Product ID": 6,
+   "Product Name": "Basic O-Neck",
+   "Price": 10,
+   "PictureLocation": "",
+   "Purchase Link": ""
+ },
+ {
+   "Product ID": 7,
+   "Product Name": "Spray Wash T-shirt",
+   "Price": 17,
+   "PictureLocation": "",
+   "Purchase Link": ""
+ },
+ {
+   "Product ID": 8,
+   "Product Name": "Navy Pinstripe Trackie Top",
+   "Price": 65,
+   "PictureLocation": "https://i.imgur.com/VrdZW0w.jpg",
+   "Purchase Link": "https://www.thread.com/item/river-island-criminal-damage-navy-pinstripe-track-top-navy/14149079/browse_new_in"
+ },
+ {
+   "Product ID": 9,
+   "Product Name": "Slim-fit Chinos",
+   "Price": 30,
+   "PictureLocation": "https://i.imgur.com/O75BoNg.jpg",
+   "Purchase Link": "https://www.thread.com/item/river-island-mens-brown-dogtooth-jersey-skinny-fit-trousers-brown/14184154?"
+ },
+ {
+   "Product ID": 10,
+   "Product Name": "Men's Brown Dogtooth Trousers",
+   "Price": 35,
+   "PictureLocation": "https://i.imgur.com/hxUmVUb.jpg",
+   "Purchase Link": "https://www.thread.com/item/jack-jones-marco-bowie-slim-fit-chinos-olive-night/14083973?"
+ },
+ {
+   "Product ID": 11,
+   "Product Name": "Pier One Sneakers",
+   "Price": 36,
+   "PictureLocation": "https://i.imgur.com/AiGIcVX.jpg",
+   "Purchase Link": "https://www.thread.com/item/pier-one-leather-sneaker-blue/13998970?"
+ },
+ {
+   "Product ID": 12,
+   "Product Name": "Blocked Crewneck",
+   "Price": 26,
+   "PictureLocation": "",
+   "Purchase Link": ""
+ },
+ {
+   "Product ID": 13,
+   "Product Name": "Block Print Roll Neck",
+   "Price": 28,
+   "PictureLocation": "",
+   "Purchase Link": ""
+ },
+ {
+   "Product ID": 14,
+   "Product Name": "Wine red wool knit",
+   "Price": 20,
+   "PictureLocation": "",
+   "Purchase Link": ""
+ },
+ {
+   "Product ID": 15,
+   "Product Name": "Textured Knit Jumper",
+   "Price": 15,
+   "PictureLocation": "",
+   "Purchase Link": ""
+ },
+ {
+   "Product ID": 16,
+   "Product Name": "Snood",
+   "Price": 15,
+   "PictureLocation": "",
+   "Purchase Link": ""
+ },
+ {
+   "Product ID": 17,
+   "Product Name": "Scarf",
+   "Price": 16,
+   "PictureLocation": "",
+   "Purchase Link": ""
+ },
+ {
+   "Product ID": 18,
+   "Product Name": "Scarf",
+   "Price": 12,
+   "PictureLocation": "",
+   "Purchase Link": ""
+ },
+ {
+   "Product ID": 19,
+   "Product Name": "Black Button Down Overcoat",
+   "Price": 80,
+   "PictureLocation": "FIRST OUTFIT",
+   "Purchase Link": ""
+ },
+ {
+   "Product ID": 20,
+   "Product Name": "New Look Shirt",
+   "Price": 15,
+   "PictureLocation": "",
+   "Purchase Link": ""
+ },
+ {
+   "Product ID": 21,
+   "Product Name": "Black Suede Shoes",
+   "Price": 35,
+   "PictureLocation": "",
+   "Purchase Link": ""
+ },
+ {
+   "Product ID": 22,
+   "Product Name": "Skinny Danny Jeans",
+   "Price": 30,
+   "PictureLocation": "",
+   "Purchase Link": ""
+ },
+ {
+   "Product ID": 23,
+   "Product Name": "Burton Black Jumper",
+   "Price": 20,
+   "PictureLocation": "",
+   "Purchase Link": ""
+ }
+]

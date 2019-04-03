@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OutfitView">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/my_toolbar3"
+        android:layout_width="395dp"
+        android:layout_height="92dp"
+        android:layout_marginBottom="109dp"
+        android:background="@drawable/artboard1"
+        android:elevation="4dp"
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+        app:layout_constraintBottom_toTopOf="@+id/btnPrev3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+    <com.like.LikeButton
+        android:id="@+id/star_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="115dp"
+        android:layout_marginLeft="115dp"
+        android:layout_marginBottom="211dp"
+        app:icon_size="25dp"
+        app:icon_type="heart"
+        app:layout_constraintBottom_toTopOf="@+id/btnCart3"
+        app:layout_constraintStart_toStartOf="@+id/imgMain3"
+        app:layout_constraintTop_toBottomOf="@+id/btnPrev3" />
+
+    <ImageView
+        android:id="@+id/btnLike3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="115dp"
+        android:layout_marginLeft="115dp"
+        android:layout_marginEnd="26dp"
+        android:layout_marginRight="26dp"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/btnCart3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/heart_off" />
+
+    <ImageView
+        android:id="@+id/btnCart3"
+        android:layout_width="0dp"
+        android:layout_height="52dp"
+        android:layout_marginEnd="123dp"
+        android:layout_marginRight="123dp"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/btnLike3"
+        app:layout_constraintTop_toBottomOf="@+id/star_button"
+        app:srcCompat="@drawable/ic_add_shopping_cart_black_24dp" />
+
+    <ImageView
+        android:id="@+id/btnPrev3"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginEnd="284dp"
+        android:layout_marginRight="284dp"
+        android:layout_marginBottom="28dp"
+        android:onClick="PreviousObject"
+        app:layout_constraintBottom_toTopOf="@+id/star_button"
+        app:layout_constraintEnd_toStartOf="@+id/btnNext3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/my_toolbar3"
+        app:srcCompat="@drawable/ic_arrow_back_black_24dp" />
+
+    <ImageView
+        android:id="@+id/imgMain3"
+        android:layout_width="257dp"
+        android:layout_height="385dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="9dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/btnLike3"
+        app:layout_constraintEnd_toStartOf="@+id/btnNext3"
+        app:layout_constraintStart_toEndOf="@+id/btnPrev3"
+        app:layout_constraintTop_toBottomOf="@+id/my_toolbar3"
+        app:srcCompat="@color/colorPrimaryDark" />
+
+    <ImageView
+        android:id="@+id/btnNext3"
+        android:layout_width="0dp"
+        android:layout_height="53dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="109dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginBottom="311dp"
+        android:onClick="NextObject"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/btnPrev3"
+        app:layout_constraintTop_toBottomOf="@+id/my_toolbar3"
+        app:srcCompat="@drawable/ic_arrow_forward_black_24dp" />
+
+</android.support.constraint.ConstraintLayout>
